@@ -1,0 +1,30 @@
+rpc-url: ""
+
+userAddr: ""
+
+staking:
+  addr: "0xb0Fa2BeEe3Cf36a7Ac7E99B885b48538Ab364853"
+
+yieldfarm:
+  addr: "0xB3F7abF8FA1Df0fF61C5AC38d35e20490419f4bb"
+
+yieldfarmlp:
+  addr: "0xC25c37c387C5C909a94055F4f16184ca325D3a76"
+
+tokens:
+  dai:
+    addr: "0x6b175474e89094c44da98b954eedeac495271d0f"
+    name: "DAI"
+    decimals: 18
+  susd:
+    addr: "0x57ab1ec28d129707052df4df418d58a2d46d5f51"
+    name: "sUSD"
+    decimals: 18
+  usdc:
+    addr: "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+    name: "USDC"
+    decimals: 6
+  unilp:
+    addr: "0x6591c4bcd6d7a1eb4e537da8b78676c1576ba244"
+    name: "USDC_BOND_UNI_LP"
+    decimals: 18
